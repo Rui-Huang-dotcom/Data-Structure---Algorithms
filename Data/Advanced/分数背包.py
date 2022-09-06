@@ -13,4 +13,4 @@ def fractional_backpack(goods,w):
     return dict
 
 print(fractional_backpack(goods,50))
-    
+print(1)
